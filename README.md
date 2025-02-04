@@ -15,7 +15,6 @@ I am looking forward to be an expert in building websites, softwares and probabl
 
 # 📊 GitHub Stats
 ![ii-shimul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ii-shimul&theme=dark&show_icons=true&hide_border=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ii-shimul)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ii-shimul&limit=5&theme=dark&combine_all_yearly_contributions=true)
