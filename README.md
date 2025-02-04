@@ -1,5 +1,5 @@
 ![Header](./image.png)
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=300&lines=%F0%9F%98%8E+About+Me)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=%F0%9F%98%8E+About+Me)](https://git.io/typing-svg)
 I am a student of Computer Science. As you can tell by looking at my profile, currently I am learning Web Development.
 I am looking forward to be an expert in building websites, softwares and probably my own programming language!
 
