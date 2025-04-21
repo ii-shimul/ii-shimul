@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=%F0%9F%98%8E+About+Me)](https://git.io/typing-svg)
-I'm a Computer Science and Engineering student at Leading University, Sylhet. As you can tell by looking at my profile, currently I am learning Web Development, I enjoy building innovative projects and tackling complex challenges.
+I'm a MERN Stack Web Developer and a Computer Science student at Leading University, Sylhet. I enjoy building innovative projects and tackling complex challenges.
 I am looking forward to be an expert in building websites, softwares and probably my own programming language!
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&repeat=false&width=435&lines=🚀+Latest+Activities)](https://git.io/typing-svg)
@@ -9,7 +9,7 @@ I am looking forward to be an expert in building websites, softwares and probabl
 - 💻 **Working on** a new project (**Event management website**). 
 - 🎨 **Re-Building** my **personal portfolio website**.  
 - 🏗 **Completed** 15+ projects and currently working on a new one.  
-- 📚 **Learning** advanced web development concepts (**Next.js soon?**).  
+- 📚 **Learning** advanced web development concepts (**Next.js loading...**).  
 - 🎯 **Aiming** for a **FAANG Job** in the near future.  
 - 📖 **Reading** self-improvement, religious, and history books (**Goal: 21 books**).  
 - ⌨ **Mastering** keyboard shortcuts to **boost productivity** in VS Code.  
