@@ -12,7 +12,7 @@ I am looking forward to be an expert in building websites, softwares and probabl
 - 📚 **Learning** advanced web development concepts (**Next.js loading...**).  
 - 🎯 **Aiming** for a **FAANG Job** in the near future.  
 - 📖 **Reading** self-improvement, religious, and history books (**Goal: 21 books**).  
-- ⌨ **Mastering** keyboard shortcuts to **boost productivity** in VS Code.  
+- ⌨ **Mastering** Vim - **the best** code editor.  
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&repeat=false&width=435&lines=%F0%9F%A4%9D+Socials)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ii-shimul/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:islamshimul27@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801756651557) [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://facebook.com/zahannami)
