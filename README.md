@@ -6,10 +6,10 @@ I am looking forward to be an expert in building websites, softwares and probabl
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&repeat=false&width=435&lines=🚀+Latest+Activities)](https://git.io/typing-svg)
 
 - 🔥 **Exploring** TypeScript to enhance my web development skills.  
-- 💻 **Working on** a new project (**Tournament management website**). 
-- 🎨 **Re-Building** my **personal portfolio website**.  
+- 💻 **Working on** a new project (**Volunteering website, PlanetCare**). 
+- 🎨 **Re-Building** my **personal portfolio**.  
 - 🏗 **Completed** 15+ projects and currently working on a new one.  
-- 📚 **Learning** advanced web development concepts (**Next.js loading...**).  
+- 📚 **Learning** advanced web development concepts (**TypeScript loading...**).  
 - 🎯 **Aiming** for a **FAANG Job** in the near future.  
 - 📖 **Reading** self-improvement, religious, and history books (**Goal: 21 books**).  
 - ⌨ **Mastering** Vim - **the best** code editor.  
