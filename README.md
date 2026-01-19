@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=%F0%9F%98%8E+About+Me)](https://git.io/typing-svg)
-I'm a MERN Stack Web Developer and a Computer Science student at Leading University, Sylhet. I enjoy building innovative projects and tackling complex challenges.
+I'm a Full Stack Web Developer and a Computer Science student at Leading University, Sylhet. I enjoy building innovative projects and tackling complex challenges.
 I am looking forward to be an expert in building websites, softwares and probably my own programming language!
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&repeat=false&width=435&lines=🚀+Latest+Activities)](https://git.io/typing-svg)
@@ -9,10 +9,10 @@ I am looking forward to be an expert in building websites, softwares and probabl
 - 💻 **Working on** a new project (**Volunteering website, PlanetCare**). 
 - 🎨 **Re-Building** my **personal portfolio**.  
 - 🏗 **Completed** 15+ projects and currently working on a new one.  
-- 📚 **Learning** advanced web development concepts (**TypeScript loading...**).  
+- 📚 **Learning** advanced web development concepts (**Three.js loading...**).  
 - 🎯 **Aiming** for a **FAANG Job** in the near future.  
 - 📖 **Reading** self-improvement, religious, and history books (**Goal: 21 books**).  
-- ⌨ **Mastering** Vim - **the best** code editor.  
+- ⌨ **Mastering** Neovim - **the best** code editor.  
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&repeat=false&width=435&lines=%F0%9F%A4%9D+Socials)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ii-shimul/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:islamshimul27@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801756651557) [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://facebook.com/zahannami)
